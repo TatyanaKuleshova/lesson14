@@ -18,7 +18,7 @@ for item in items:
 
     films.append({
         'Название': name,
-        'Жанр/Формат': description,
+        'Жанр': description,
         'Ограничение': age
         })
 
